@@ -1,6 +1,6 @@
 # Card Matching Memory Game
 
-Acesta este un joc de tip card matching (memory game) dezvoltat în Processing, realizat ca proiect universitar. Scopul jocului este de a găsi toate perechile de cărți identice cu un număr cât mai mic de încercări.
+Acesta este un joc de tip card matching (memory game) dezvoltat în Processing, realizat ca proiect universitar. Scopul jocului este de a găsi toate perechile de cărți identice cu un număr cât mai mic de încercări și într-un timp cât mai scurt.
 
 ---
 
